@@ -24,7 +24,7 @@ https://trello.com/b/Bx4Djmkl/projeto-integrador
 ### NETLIFY
 https://vemdaterrabrasil.herokuapp.com/swagger-ui/
 
- <h1 align="center">🖥️ Tecnologias Utilizadas 🖥️ </h1>
+ <h1 align="center"Tecnologias Utilizadas 🖥️ </h1>
  
 [![mmysqqll Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/felipe-8847/Projeto-integrador)](https://github.com/felipe-8847/Projeto-integrador)
 [![discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://github.com/felipe-8847/Projeto-integrador)](https://github.com/felipe-8847/Projeto-integrador)
