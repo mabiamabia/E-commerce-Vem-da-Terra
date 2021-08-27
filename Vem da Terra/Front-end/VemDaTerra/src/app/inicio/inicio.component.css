@@ -1,0 +1,50 @@
+
+.fb{
+    display: flex;
+}
+.fs10{
+    font-size: 19px;
+}
+
+.fundo1{
+    background-color: #c5f9ec;
+}
+
+.fundo2{
+    background-color: #d8efdd;
+}
+.fs10{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+.fs-54{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+.fs-54-b{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    
+}
+
+.centro{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.ct{
+    text-align: center;
+}
+
+.imgcard{
+    height: 150px;
+    width: 180px;
+}
+
+.preco{
+    color: #019e43;
+}
+
+.p-3{
+    margin-left: 4;
+}

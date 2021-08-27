@@ -1,0 +1,43 @@
+.br-50 {
+    border-radius: 3%;
+}
+.wh{
+    width: 445px;
+    height: 400px;
+}
+.fs-30{
+    font-size: 30px;
+}
+.nav-item{
+    font-weight: bold;
+}
+.nome{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+}
+.fa-user-circle-o{
+    font-size: 15pt;
+    padding-right: 3pt;
+}
+.fa-sign-out{
+    font-size: 13pt;
+    padding-left: 3pt;
+}
+.fa-heart-o{
+    font-size: 15pt;
+    padding-right: 5pt;
+}
+.fa-shopping-cart{
+    font-size: 16pt;
+    padding-right: 8pt;
+}
+.pl{
+    padding-right: 10pt;
+}
+/*#mT.modal-content{
+    -webkit-box-shadow:none !important; 
+    box-shadow: none !important; 
+    background: rgb(255, 255, 255) !important; 
+    opacity: 0.8;
+}*/
